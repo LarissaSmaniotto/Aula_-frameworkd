@@ -152,7 +152,9 @@ for (let i = 6; i < 24; i++) {
 
 const resources = ref(
     [
-        {
+        {git push -u origin main
+
+            
             name: 'Notebook Dell',
             photo: '/src/assets/dell2.png',
             patrimony: '123456',

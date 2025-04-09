@@ -1,3 +1,9 @@
+# Aula Frameworkd
+Esse é meu projeto para o TCC
+git commit -m "resolvendo conflito com o remote"
+
+
+<<<<<<< HEAD
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
@@ -77,3 +83,8 @@ This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library wi
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2016-present Vuetify, LLC
+=======
+# frameworks
+## Repositorio para a aula de frameworks
+### estes são os ultimos ajustes feito por mim  no projeto do SmartDrawer - Gaveta Inteligente
+>>>>>>> 25ed73e2f8094ede7b1a93dc5ce7c24b03460965
